@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pranay Prakash Dhangar
 - 👀 I’m interested in programming, gaming and learn new things
-- 🌱 I’m currently studying B.tech CSE third year and also learning python, basic coding problems and basic aptitude
+- 🌱 I’m currently studying B.tech CSE third year and also learning python and basic coding.
 - 📫 How to reach me my email is pranayhulwan@gmail.com
 
 <!---
