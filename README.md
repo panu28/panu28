@@ -12,7 +12,7 @@
 - 📫 How to reach me **pranayhulwan@gmail.com**
 
 - ⚡ Fun fact **I Love Programming**
-- 
+
 <p align="left">
 </p>
 
