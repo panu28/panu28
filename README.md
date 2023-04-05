@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=panu28" alt="panu28" /></a> </p>
 
-- 🌱 I’m currently learning **Python,JS**
+- 🌱 I’m currently learning **AWS Services, Angular, React**
 
-- 💬 Ask me about **C**
+- 💬 Ask me about **C, Python**
 
 - 📫 How to reach me **pranayhulwan@gmail.com**
-
-- ⚡ Fun fact **I Love Programming**
 
 <p align="left">
 </p>
